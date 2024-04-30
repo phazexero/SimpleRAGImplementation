@@ -1,5 +1,6 @@
 # Simple RAG Implementation
 RAG Implementation method on a local system
+You can find a complete implementation of the RAG mechanism using langchain in the pdfBot repository. This repo covers more of a basic method of RAG, with using langchain techniques.
 
 # What is RAG?
 * RAG is Retrieval Augmented Generation
